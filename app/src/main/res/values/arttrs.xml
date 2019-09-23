@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipeRevealLayout">
+        <attr name="dragFromEdge">
+            <flag name="left" value="1" />
+            <flag name="right" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CustomSquare">
+        <attr name="square_color" format="color"/>
+        <attr name="square_size" format="dimension"/>
+    </declare-styleable>
+</resources>
